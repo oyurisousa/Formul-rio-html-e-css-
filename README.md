@@ -1,11 +1,9 @@
-# NLW eSports 
->Trilha explorer
+# Formulário HTML e CSS
+>Projeto simples - Iniciante
 
-![preview](./.github/preview.png)
-[Acesse aqui!](https://oyurisousa.github.io/nlw_sports/)
+![preview](./imagens/preview.jpeg)
+[Acesse aqui!](https://form-html-css-simples.vercel.app/)
 
-
-*Projeto construído no evento Next Week Level da Rocketseat.
 
 ## Tecnologias
 
@@ -18,3 +16,5 @@
 
 ## Contato
 -Email: yurisousaenfer@gmail.com
+
+-instagram: @o.yurisousa
